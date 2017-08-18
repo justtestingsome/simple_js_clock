@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Bitter:700);
+ 
+body {
+    background-color: #316ac6;
+}
+
+#clock {
+    position: fixed;
+    color: aliceblue;
+    font-family: 'Bitter', sans-serif;
+    font-size: 80px;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -190px;
+    text-shadow: 4px 4px 4px #aaa;
+}
